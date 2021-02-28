@@ -1,4 +1,6 @@
-rm(list=ls())
+#title: Analysis and figures for Knight et al. 2017 Recommendations for acoustic recognizer performance assessment with application to five common automated signal recognition programs. Avian Conservation and Ecology 12(2):14
+#author: Elly C. Knight
+#date: Feb 24, 2018
 
 library(tidyverse)
 library(stringi)
